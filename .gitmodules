@@ -1,3 +1,6 @@
 [submodule ".devcontainer"]
 	path = .devcontainer
 	url = git@github.com:hayatoshibahara/.devcontainer
+[submodule "lerobot"]
+	path = lerobot
+	url = git@github.com:huggingface/lerobot
